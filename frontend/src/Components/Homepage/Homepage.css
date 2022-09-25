@@ -1,0 +1,25 @@
+.user-table{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    border-left: black;
+    border-right: black;
+}
+
+.table-header{
+    background-color: lightgreen;
+}
+
+.add-user-button-div{
+    width: 70%;
+    margin: auto;
+}
+
+.add-user-button{
+    float: right;
+    margin-bottom: 20px;
+}
+
+.homepage-body{
+    width: 100%;
+}
